@@ -1,5 +1,5 @@
 function love.conf(t)
-    t.title = "Pong"
+    t.title = "Lua Pong"
     t.version = "11.4"
     t.console = true
     t.window.width = 1280
